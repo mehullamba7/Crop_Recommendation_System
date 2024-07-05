@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model  # Import load_model from Keras
 app = Flask(__name__)
 
 # Load the Keras model
-model = load_model('absolute/path/to/output.h5')
+model = load_model('crop_recommendation_model.h5')
 
 #model = load_model('output.h5')
 

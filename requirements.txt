@@ -1,7 +1,9 @@
+Tensorflow
 Flask
 sklearn
 pandas
 numpy
 matplotlib
 gunicorn
+Seaborn
 
