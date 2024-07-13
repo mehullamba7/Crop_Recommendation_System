@@ -25,14 +25,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install tensorflow
-  pip install flask
-  pip install skylearn
-  pip install pandas
-  pip install numpy
-  pip install matplotlib
-  pip install gunicorn
-  pip install seaborn
+  pip install requirements.txt
 ```
 
 Start the server
